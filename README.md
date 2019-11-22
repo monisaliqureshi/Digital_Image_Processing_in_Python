@@ -8,4 +8,4 @@ If you want to perform offline simply download Jupyter NoteBook file and all dir
 
 ### In case of any problem or help mail at monisaliqureshi@yahoo.com or 
 
-### My find me at https://www.google.com/search?q=monis+ali+qureshi
+### Find me at https://www.google.com/search?q=monis+ali+qureshi
